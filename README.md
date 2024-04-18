@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickolasB98, my full name is Nikolaos Biniaris and I am a MSc Technology and Operations Management graduate in the Netherlands.
 - 👀 I’m interested in becoming a Data Engineer with some love in Machine Learning.
-- 🌱 I’m currently learning Git, Docker, and gaining some Cloud knowledge (AWS,Azure)
+- 🌱 I’m currently learning Git, Docker, and gaining some Cloud knowledge (AWS,Azure). I can already achieve some magic with Python and SQL, having trained a lot with them in courses and during my academic journey.
 - 💞️ I’m looking to collaborate on projects that will showcase my current and upcoming skills, as I am practising them everyday, trying to connect the dots.
 - 📫 How to reach me : https://www.linkedin.com/in/nikolaos-biniaris-589517187/
 - 😄 Pronouns: He/Him
