@@ -5,7 +5,9 @@ I possess a hands-on foundation in AWS services (Lambda, S3, Glue, Athena, etc.)
 Here's a glimpse of what I've accomplished:
 
 **Serverless AWS Data Engineering Project:** Successfully built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for data transformation, Athena for querying transformed data, and Grafana Cloud for data visualization.
+
 **Data Analytics Project with AWS:** Utilized S3 and AWS QuickSight to analyze historical data on Netflix movies and TV shows. I leveraged a JSON manifest to configure QuickSight and perform insightful data exploration.
+
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions.
 
 Skills: Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glue ETL Workflow, Glue Crawler | QuickSight) | Git | Machine Learning | Linux
