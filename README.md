@@ -15,7 +15,7 @@ Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glu
 
 - 🔭 I’m currently working on hands-on AWS projects to gain experience in cloud engineering. 
 - 🌱 I’m currently learning PySpark and SparkSQL on real-life practice examples. In the meantime, I am getting more experience in Docker, considering it vital to master for my career path. 
-- 💬 Ask me about Open to working on projects that involve building and deploying machine learning pipelines on the cloud. My skills in both cloud and ML can be a valuable asset. 
+- 💬 Open to working on projects that involve building and deploying machine learning pipelines on the cloud. My skills in both cloud and ML can be a valuable asset. 
 - 📫 How to reach me: nikosdbiniaris@yahoo.com 
 
 
