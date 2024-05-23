@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nickolas!
 #### I am a Junior Data Engineer, with cloud hands-on experience, followed by an academic journey in Machine Learning & Big Data.
-I possess a hands-on foundation in AWS services (Lambda, S3, Glue, Athena, etc.) and utilize Python, SQL, Docker, and Git to design, implement, and maintain ETL workflows.  I'm constantly seeking opportunities to expand my skillset and delve deeper into the world of data engineering.
+I possess a hands-on foundation in AWS services (Lambda, S3, Glue, Athena, Kinesis, etc.) and utilize Python, SQL, Docker, and Git to design, implement, and maintain ETL workflows.  I'm constantly seeking opportunities to expand my skillset and delve deeper into the world of data engineering.
 
 Here's a glimpse of what I've accomplished:
 
