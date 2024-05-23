@@ -10,7 +10,8 @@ Here's a glimpse of what I've accomplished:
 
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions.
 
-Skills: Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glue ETL Workflow, Glue Crawler | QuickSight) | Git | Machine Learning | Linux
+**Skills:** 
+Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glue ETL Workflow, Glue Crawler | QuickSight) | Git | Machine Learning | Linux
 
 - 🔭 I’m currently working on hands-on AWS projects to gain experience in cloud engineering. 
 - 🌱 I’m currently learning PySpark and SparkSQL on real-life practice examples. In the meantime, I am getting more experience in Docker, considering it vital to master for my career path. 
