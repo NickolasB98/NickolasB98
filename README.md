@@ -25,7 +25,7 @@ Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glu
 - 📫 How to reach me: nikosdbiniaris@yahoo.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickolasB98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nikolaos-biniaris-589517187/overlay/about-this-profile//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickolasB98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolaos-biniaris-589517187/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickolasB98)](https://github.com/anuraghazra/github-readme-stats)
 
