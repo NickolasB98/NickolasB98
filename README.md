@@ -18,7 +18,7 @@ I wrote and tested SQL-based transformations (models) within DBT. These models e
 The transformed data resided in BigQuery, a powerful and scalable data warehouse. This ensured efficient storage and retrieval of large datasets.
 Finally, I connected Looker Studio to the BigQuery instance. This enabled interactive data visualization through drag-and-drop actions, allowing me to explore the transformed data.
 
-GitHub Repository: dbt-bigquery-de-project 
+GitHub Repository: dbt_bigquery_de_project 
 
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions.
 GitHub Repository: TOM_Thesis
