@@ -8,6 +8,12 @@ Here's a glimpse of what I've accomplished:
 
 **Data Analytics Project with AWS:** Utilized S3 and AWS QuickSight to analyze historical data on Netflix movies and TV shows. I leveraged a JSON manifest to configure QuickSight and perform insightful data exploration.
 
+**DBT, GCP BigQuery and Studio Looker Project**:
+In this project, I explored DBT (Data Build Tool) and BigQuery to construct a data transformation pipeline. DBT's SQL-based approach offered a familiar language for data manipulation, streamlining the process.
+I wrote and tested SQL-based transformations (models) within DBT. These models executed directly in BigQuery, transforming raw data into a usable format.
+The transformed data resided in BigQuery, a powerful and scalable data warehouse. This ensured efficient storage and retrieval of large datasets.
+Finally, I connected Looker Studio to the BigQuery instance. This enabled interactive data visualization through drag-and-drop actions, allowing me to explore the transformed data.
+
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions.
 
 **Skills:** 
