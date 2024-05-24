@@ -21,6 +21,7 @@ Finally, I connected Looker Studio to the BigQuery instance. This enabled intera
 GitHub Repository: dbt_bigquery_de_project 
 
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions.
+
 GitHub Repository: TOM_Thesis
 
 **Skills:** 
