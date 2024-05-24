@@ -5,9 +5,11 @@ I possess a hands-on foundation in AWS services (Lambda, S3, Glue, Athena, Kines
 Here's a glimpse of what I've accomplished:
 
 **Serverless AWS Data Engineering Project:** Built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for data transformation, Athena for querying transformed data, and Grafana Cloud for data visualization.
+
 GitHub Repository: aws_severless_project
 
-**Data Analytics AWS QuickSight Project:** Utilized S3 and AWS QuickSight to analyze historical data on Netflix movies and TV shows. I leveraged a JSON manifest to configure QuickSight and perform insightful data exploration. 
+**Data Analytics AWS QuickSight Project:** Utilized S3 and AWS QuickSight to analyze historical data on Netflix movies and TV shows. I leveraged a JSON manifest to configure QuickSight and perform insightful data exploration.
+
 LinkedIn Link: [https://www.linkedin.com/feed/update/urn:li:activity:7199125001491361792/]
 
 **DBT, GCP BigQuery, Looker Data Engineering Project**:
@@ -15,6 +17,7 @@ In this project, I explored DBT (Data Build Tool) and BigQuery to construct a da
 I wrote and tested SQL-based transformations (models) within DBT. These models executed directly in BigQuery, transforming raw data into a usable format.
 The transformed data resided in BigQuery, a powerful and scalable data warehouse. This ensured efficient storage and retrieval of large datasets.
 Finally, I connected Looker Studio to the BigQuery instance. This enabled interactive data visualization through drag-and-drop actions, allowing me to explore the transformed data.
+
 GitHub Repository: dbt-bigquery-de-project 
 
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions.
