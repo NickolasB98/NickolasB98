@@ -6,7 +6,7 @@ Here's a glimpse of what I've accomplished:
 
 **Serverless AWS Data Engineering Project:** Built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for data transformation, Athena for querying transformed data, and Grafana Cloud for data visualization.
 
-GitHub Repository: [aws_severless_project]((https://github.com/NickolasB98/aws_severless_project))
+**GitHub Repository:** [aws_severless_project](https://github.com/NickolasB98/aws_severless_project)  
 
 **Data Analytics AWS QuickSight Project:** Utilized S3 and AWS QuickSight to analyze historical data on Netflix movies and TV shows. I leveraged a JSON manifest to configure QuickSight and perform insightful data exploration.
 
