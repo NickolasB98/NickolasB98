@@ -1,8 +1,16 @@
 ### Hi there 👋, my name is Nickolas!
-#### I am a Junior Data Engineer, with cloud hands-on experience, followed by an academic journey in Machine Learning & Big Data.
-I possess a hands-on foundation in AWS services (Lambda, S3, Glue, Athena, Kinesis, etc.) and utilize Python, SQL, Docker, and Git to design, implement, and maintain ETL workflows.  I'm constantly seeking opportunities to expand my skillset and delve deeper into the world of data engineering.
+#### As a Junior Data Engineer, I'm skilled in building data pipelines (Airflow, dbt, Soda) that ensure data quality and empower data exploration (Metabase, Looker, Grafana).
+#### Leveraging my proficiency in Python, SQL, Docker, and Git, I actively design, implement, and maintain robust ETL workflows across cloud platforms.
 
-Here's a glimpse of what I've accomplished:
+Here's a breakdown of my cloud expertise:
+
+**AWS:** I effectively manage data ingestion using Kinesis Firehose for real-time streaming and Lambda functions for serverless processing. For storage and management, I utilize S3 and Glue, which also offers ETL workflow orchestration. Finally, I can query transformed data with Athena and create interactive visualizations with QuickSight.
+
+**GCP:** My experience extends to BigQuery and Looker, allowing me to work with scalable data storage, analytics, and data visualization within the GCP ecosystem.
+
+I'm a continuous learner, constantly seeking opportunities to expand my skillset and contribute to the field of data engineering.
+
+And now a glimpse of what I've accomplished:
 
 **Serverless AWS Data Engineering Project:** Built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for data transformation, Athena for querying transformed data, and Grafana Cloud for data visualization.
 
@@ -28,12 +36,12 @@ This approach streamlines the process, ensures data accuracy through Soda checks
 
 **GitHub Repository:** [airflow-bigquery-dbt-retail-data-pipeline](https://github.com/NickolasB98/airflow-bigquery-dbt-retail-data-pipeline) 
 
-**MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions.
+**MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions. The focus of this project is on utilizing xAI techniques and Fair AI Libraries for Machine Learning Bias Management across its life cycle.
 
-GitHub Repository: TOM_Thesis
+**GitHub Repository:** [TOM_Thesis](https://github.com/NickolasB98/TOM_Thesis ) 
 
 **Skills:** 
-Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glue ETL Workflow, Glue Crawler, QuickSight) | GCP (BigQuery, GSB, Looker) | DBT | Git | Machine Learning | Linux CMD
+Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glue ETL Workflow, Glue Crawler, QuickSight) | GCP (BigQuery, GSB, Looker) | dbt | Git | Machine Learning | Linux CMD
 
 - 🔭 I’m currently working on hands-on AWS projects to gain experience in cloud engineering. 
 - 🌱 I’m currently learning PySpark and SparkSQL on real-life practice examples. In the meantime, I am getting more experience in Docker, considering it vital to master for my career path. 
