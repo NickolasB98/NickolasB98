@@ -14,7 +14,7 @@ And now a glimpse of what I've accomplished:
 
 **Serverless AWS Data Engineering Project:** Built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for data transformation, Athena for querying transformed data, and Grafana Cloud for data visualization.
 
-**GitHub Repository:** [aws_severless_project](https://github.com/NickolasB98/aws_severless_project)  
+**GitHub Repository:** [aws-severless-project](https://github.com/NickolasB98/aws-severless-project)  
 
 **Data Analytics AWS QuickSight Project:** Utilized S3 and AWS QuickSight to analyze historical data on Netflix movies and TV shows. I leveraged a JSON manifest to configure QuickSight and perform insightful data exploration.
 
@@ -26,7 +26,7 @@ I wrote and tested SQL-based transformations (models) within DBT. These models e
 The transformed data resided in BigQuery, a powerful and scalable data warehouse. This ensured efficient storage and retrieval of large datasets.
 Finally, I connected Looker Studio to the BigQuery instance. This enabled interactive data visualization through drag-and-drop actions, allowing me to explore the transformed data.
 
-**GitHub Repository:** [dbt_bigquery_de_project](https://github.com/NickolasB98/dbt_bigquery_de_project) 
+**GitHub Repository:** [dbt-bigquery-de-project](https://github.com/NickolasB98/dbt-bigquery-de-project) 
 
 **Data Pipeline for Automated Report Quality & Visualization Project (Airflow, dbt, BigQuery, Metabase)**
 
@@ -38,7 +38,7 @@ This approach streamlines the process, ensures data accuracy through Soda checks
 
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions. The focus of this project is on utilizing xAI techniques and Fair AI Libraries for Machine Learning Bias Management across its life cycle.
 
-**GitHub Repository:** [TOM_Thesis](https://github.com/NickolasB98/TOM_Thesis ) 
+**GitHub Repository:** [TOM-Thesis](https://github.com/NickolasB98/TOM_Thesis ) 
 
 **Skills:** 
 Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glue ETL Workflow, Glue Crawler, QuickSight) | GCP (BigQuery, GSB, Looker) | dbt | Git | Machine Learning | Linux CMD
