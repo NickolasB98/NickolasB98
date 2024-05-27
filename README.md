@@ -20,7 +20,7 @@ And now a glimpse of what I've accomplished:
 
 **LinkedIn Link:** [My LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7199125001491361792/)  
 
-**DBT, GCP BigQuery, Looker Data Engineering Project**: In this project, I explored DBT (Data Build Tool) and BigQuery to construct a data transformation pipeline. DBT's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within DBT. These models executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery, a powerful and scalable data warehouse. This ensured efficient storage and retrieval of large datasets. Finally, I connected Looker Studio to the BigQuery instance. This enabled interactive data visualization through drag-and-drop actions, allowing me to explore the transformed data.
+**DBT, GCP BigQuery, Looker Data Engineering Project**: In this project, I explored dbt and BigQuery to construct a data transformation pipeline. dbt's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. This ensured efficient storage and retrieval of large datasets. Finally, I connected Looker Studio to the BigQuery instance, enabled interactive data visualization through drag-and-drop actions to explore the transformed data.
 
 **GitHub Repository:** [dbt-bigquery-de-project](https://github.com/NickolasB98/dbt-bigquery-de-project) 
 
