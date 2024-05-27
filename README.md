@@ -2,7 +2,7 @@
 #### As a Junior Data Engineer, I'm skilled in building data pipelines (Airflow, dbt, Soda) that ensure data quality and empower data exploration (Metabase, Looker, Grafana).
 #### Leveraging my proficiency in Python, SQL, Docker, and Git, I actively design, implement, and maintain robust ETL workflows across cloud platforms.
 
-Here's a breakdown of my cloud expertise:
+Here's a breakdown of my cloud skills:
 
 **AWS:** I effectively manage data ingestion using Kinesis Firehose for real-time streaming and Lambda functions for serverless processing. For storage and management, I utilize S3 and Glue, which also offers ETL workflow orchestration. Finally, I can query transformed data with Athena and create interactive visualizations with QuickSight.
 
