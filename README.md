@@ -38,7 +38,7 @@ This approach streamlines the process, ensures data accuracy through Soda checks
 
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions. The focus of this project is on utilizing xAI techniques and Fair AI Libraries for Machine Learning Bias Management across its life cycle.
 
-**GitHub Repository:** [TOM-Thesis](https://github.com/NickolasB98/TOM_Thesis ) 
+**GitHub Repository:** [MSc-TOM-Thesis](https://github.com/NickolasB98/MSc-TOM-Thesis) 
 
 **Skills:** 
 Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glue ETL Workflow, Glue Crawler, QuickSight) | GCP (BigQuery, GSB, Looker) | dbt | Git | Machine Learning | Linux CMD
