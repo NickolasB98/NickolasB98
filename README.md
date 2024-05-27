@@ -28,7 +28,7 @@ Finally, I connected Looker Studio to the BigQuery instance. This enabled intera
 
 **GitHub Repository:** [dbt_bigquery_de_project](https://github.com/NickolasB98/dbt_bigquery_de_project) 
 
-**Data Pipeline for Automated Report Quality & Visualization (Airflow, dbt, BigQuery, Metabase)**
+**Data Pipeline for Automated Report Quality & Visualization Project (Airflow, dbt, BigQuery, Metabase)**
 
 This project automates report quality checks and data visualizations using a powerful tech stack. Airflow orchestrates the execution of data quality checks written in YAML files. These checks are powered by Soda, a framework specifically designed for data validation. dbt seamlessly integrates with Airflow using Cosmos/Astro, an extension that allows automatic execution of dbt models within Airflow workflows. This streamlines data transformation for analysis in BigQuery, the project's data warehouse. For data management, the pipeline leverages the Astro SDK and its Load File Operator. This operator simplifies loading data into BigQuery, ensuring efficient data storage. Python virtual environments and the Python Operator within Airflow provide flexibility for running custom Python code within the pipeline. This allows for handling unique situations and adding custom logic.
 
