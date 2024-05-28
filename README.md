@@ -12,11 +12,11 @@ I'm a continuous learner, constantly seeking opportunities to expand my skillset
 
 And now a glimpse of what I've accomplished:
 
-**Serverless AWS Data Engineering Project:** Built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for data transformation, Athena for querying transformed data, and Grafana Cloud for data visualization.
+**Serverless AWS Data Engineering Project:** In this project, I built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for data transformation, Athena for querying transformed data, and Grafana Cloud for data visualization.
 
 **GitHub Repository:** [aws-severless-project](https://github.com/NickolasB98/aws-severless-project)  
 
-**Data Analytics AWS QuickSight Project:** Utilized S3 and AWS QuickSight to analyze historical data on Netflix movies and TV shows. I leveraged a JSON manifest to configure QuickSight and perform insightful data exploration.
+**Data Analytics AWS QuickSight Project:** In this project, I utilized S3 and AWS QuickSight to analyze historical data on Netflix movies and TV shows. I leveraged a JSON manifest to configure QuickSight and perform insightful data exploration.
 
 **LinkedIn Link:** [My LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7199125001491361792/)  
 
@@ -24,7 +24,7 @@ And now a glimpse of what I've accomplished:
 
 **GitHub Repository:** [dbt-bigquery-de-project](https://github.com/NickolasB98/dbt-bigquery-de-project) 
 
-**Data Pipeline for Automated Report Quality & Visualization Project (Airflow, dbt, BigQuery, Metabase)**: This project automates report quality checks and data visualizations using a powerful tech stack. Airflow orchestrates the execution of data quality checks written in YAML files. These checks are powered by Soda, a framework specifically designed for data validation. dbt seamlessly integrates with Airflow using Cosmos/Astro, an extension that allows automatic execution of dbt models within Airflow workflows. This streamlines data transformation for analysis in BigQuery, the project's data warehouse. For data management, the pipeline leverages the Astro SDK and its Load File Operator. This operator simplifies loading data into BigQuery, ensuring efficient data storage. Python virtual environments and the Python Operator within Airflow provide flexibility for running custom Python code within the pipeline. This allows for handling unique situations and adding custom logic. This approach streamlines the process, ensures data accuracy through Soda checks, and empowers clear data insights with dbt and Metabase visualizations. 
+**Data Pipeline for Automated Report Quality & Visualization Project (Airflow, dbt, BigQuery, Metabase)**: This project automates report quality checks and data visualizations using a powerful tech stack. Airflow orchestrated the execution of data quality checks written in YAML files. These checks were powered by Soda, a framework specifically designed for data validation. dbt seamlessly integrated with Airflow using Cosmos/Astro, an extension that allowed automatic execution of dbt models within Airflow workflows. This streamlined data transformation for analysis in BigQuery, the project's data warehouse. For data management, the pipeline leveraged the Astro SDK and its Load File Operator. This operator simplified loading data into BigQuery, ensuring efficient data storage. Python virtual environments and the Python Operator within Airflow provided flexibility for running custom Python code within the pipeline. This allowed for handling unique situations and adding custom logic. This approach streamlined the process, ensured data accuracy through Soda checks, and empowered clear data insights with dbt and Metabase visualizations. 
 
 **GitHub Repository:** [airflow-bigquery-dbt-retail-project](https://github.com/NickolasB98/airflow-bigquery-dbt-retail-project) 
 
