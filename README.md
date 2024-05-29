@@ -4,7 +4,7 @@
 
 Here's a breakdown of my cloud skills:
 
-**AWS:** I effectively manage data ingestion using Kinesis Firehose for real-time streaming and Lambda functions for serverless processing. For storage and management, I utilize S3 and Glue, which also offers ETL workflow orchestration. Finally, I can query transformed data with Athena and create interactive visualizations with QuickSight.
+**AWS:** I effectively manage data ingestion using Kinesis Firehose for real-time streaming and Lambda functions for serverless processing. For storage and management, I utilize S3 and Glue for data crawling based on their partitions. Glue also offers ETL workflow orchestration for building scalable data pipelines, including ETL Job scripts and triggers. Finally, I can query transformed data with Athena and create interactive visualizations with QuickSight, or with Grafana Cloud connected to Athena, utilizing SQL queries.
 
 **GCP:** My experience extends to BigQuery and Looker, allowing me to work with scalable data storage, analytics, and data visualization within the GCP ecosystem.
 
