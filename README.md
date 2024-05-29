@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nickolas!
 #### As a Junior Data Engineer, I'm skilled in building data pipelines (Airflow, dbt, Soda) that ensure data quality and empower data exploration (Metabase, Looker, Grafana).
-#### Leveraging my proficiency in Python, SQL, Docker, and Git, I actively design, implement, and maintain robust ETL workflows across cloud platforms.
+#### History of effective cloud engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
 
 Here's a breakdown of my cloud skills:
 
