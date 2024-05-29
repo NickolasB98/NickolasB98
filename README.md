@@ -2,12 +2,6 @@
 #### As a Junior Data Engineer, I'm skilled in building data pipelines (Airflow, dbt, Soda) that ensure data quality and empower data exploration (Metabase, Looker, Grafana).
 #### History of effective cloud engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
 
-Here's a breakdown of my cloud skills:
-
-**AWS:** I effectively manage data ingestion using Kinesis Firehose for real-time streaming and Lambda functions for serverless processing. For storage and management, I utilize S3 and Glue for data crawling based on their partitions. Glue also offers ETL workflow orchestration for building scalable data pipelines, including ETL Job scripts and triggers. Finally, I can query transformed data with Athena and create interactive visualizations with QuickSight, or with Grafana Cloud connected to Athena, utilizing SQL queries.
-
-**GCP:** My experience extends to BigQuery and Looker, allowing me to work with scalable data storage, analytics, and data visualization within the GCP ecosystem.
-
 And now a glimpse of what I've accomplished:
 
 **Serverless AWS Data Engineering Project:** In this project, I built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for orchestrating the data pipeline by connecting the Glue Crawler, ETL jobs alongside with triggers, Athena for querying transformed data, and Grafana Cloud for interactive data visualization.
