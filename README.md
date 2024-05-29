@@ -12,7 +12,7 @@ I'm a continuous learner, constantly seeking opportunities to expand my skillset
 
 And now a glimpse of what I've accomplished:
 
-**Serverless AWS Data Engineering Project:** In this project, I built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for data transformation, Athena for querying transformed data, and Grafana Cloud for data visualization.
+**Serverless AWS Data Engineering Project:** In this project, I built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for orchestrating the data pipeline by connecting the Glue Crawler, ETL jobs alongside with triggers, Athena for querying transformed data, and Grafana Cloud for interactive data visualization.
 
 **GitHub Repository:** [aws-severless-project](https://github.com/NickolasB98/aws-severless-project)  
 
