@@ -8,8 +8,6 @@ Here's a breakdown of my cloud skills:
 
 **GCP:** My experience extends to BigQuery and Looker, allowing me to work with scalable data storage, analytics, and data visualization within the GCP ecosystem.
 
-I'm a continuous learner, constantly seeking opportunities to expand my skillset and contribute to the field of data engineering.
-
 And now a glimpse of what I've accomplished:
 
 **Serverless AWS Data Engineering Project:** In this project, I built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for orchestrating the data pipeline by connecting the Glue Crawler, ETL jobs alongside with triggers, Athena for querying transformed data, and Grafana Cloud for interactive data visualization.
