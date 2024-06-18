@@ -35,7 +35,7 @@ This project automates report quality checks and data visualizations using a pow
 **GitHub Repository:** [MSc-TOM-Thesis](https://github.com/NickolasB98/MSc-TOM-Thesis) 
 
 **Skills:** 
-Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, S3, Athena, EventBridge, Glue ETL Workflow, Glue Crawler, QuickSight) | GCP (BigQuery, GSB, Looker) | dbt | Git | Machine Learning | Linux CMD
+Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, Athena, Glue ETL Workflow, Glue Crawler, QuickSight) | GCP (BigQuery, Looker) | Azure (Databricks, ADF)| dbt | Airflow | Git | Machine Learning | Linux CMD
 
 - 🔭 I’m currently working on hands-on Cloud projects to gain experience in cloud engineering. 
 - 🌱 I’m currently learning PySpark and SparkSQL on real-life practice examples. In the meantime, I am getting more experience in Docker, considering it vital to master for my career path. 
