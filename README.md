@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nickolas!
-#### As a Junior Data Engineer, I'm skilled in building data pipelines (Airflow, dbt, Soda) that ensure data quality and empower data exploration (Metabase, Looker, Grafana).
+#### As a Junior Data Engineer, I'm skilled in building data pipelines across different clouds that ensure data quality and empower data exploration in tools like Metabase, Looker, or Grafana.
 #### History of effective cloud engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
 
 And now a glimpse of what I've accomplished:
