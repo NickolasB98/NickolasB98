@@ -17,7 +17,7 @@ In this project, I explored dbt and BigQuery to construct a data transformation 
 **Azure Databricks Automated Racing Data Pipeline:**
 This project leverages Azure Databricks to analyze Formula 1 race results from the Ergast Developer API (1950-2022). Raw data lands in Azure Data Lake Storage, then undergoes Spark-powered transformations (cleaning, schema application) in Azure Databricks notebooks. Further transformations using Databricks SQL in the Silver Zone prepare the data for analysis. Finally, the processed data resides in the Gold Zone for exploration and reporting. A dynamic trigger based on upcoming race dates ensures the pipeline only runs on race weeks, while Azure Data Factory orchestrates and monitors the entire process.
 
-**GitHub Repository:** [databricks-formula1-pipeline](https://github.com/NickolasB98/databricks-formula1-pipeline) 
+**GitHub Repository:** [databricks-formula1-pipeline-project](https://github.com/NickolasB98/databricks-formula1-pipeline-project)
 
 **Azure Data Factory Fully Automated CI/CD Covid Reporting Pipeline:**
 
