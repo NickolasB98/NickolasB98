@@ -20,8 +20,7 @@ This project leverages Azure Databricks to analyze Formula 1 race results from t
 **GitHub Repository:** [databricks-formula1-pipeline-project](https://github.com/NickolasB98/databricks-formula1-pipeline-project)
 
 **Azure Data Factory Fully Automated CI/CD Covid Reporting Pipeline:**
-
-Azure Data Factory COVID-19 Reporting Pipeline: Built a cloud-based ETL pipeline using ADF to ingest, transform, and load COVID-19 data from ECDC and Azure Blob Storage into Azure Data Lake and SQL Database. Leveraged ADF Data Flows, Databricks, and Power BI for data processing, warehousing, and visualization. Implemented a fully automated CI/CD pipeline using Azure DevOps and Git for continuous delivery and improved efficiency.
+Built a cloud-based ETL pipeline using ADF to ingest, transform, and load COVID-19 data from ECDC and Azure Blob Storage into Azure Data Lake and SQL Database. Leveraged ADF Data Flows, Databricks, and Power BI for data processing, warehousing, and visualization. Implemented a fully automated CI/CD pipeline using Azure DevOps and Git for continuous delivery and improved efficiency.
 
 **GitHub Repository:** [covid-azure-data-factory-cicd-project](https://github.com/NickolasB98/covid-azure-data-factory-cicd-project)
 
