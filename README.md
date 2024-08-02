@@ -9,11 +9,6 @@ In this project, I built a serverless data pipeline using AWS services to ingest
 
 **GitHub Repository:** [aws-severless-project](https://github.com/NickolasB98/aws-severless-project)  
 
-**Data Analytics AWS QuickSight Project for Netflix Data:** 
-In this project, I utilized S3 and AWS QuickSight to analyze historical data on Netflix movies and TV shows. I leveraged a JSON manifest to configure QuickSight and perform insightful data exploration.
-
-**LinkedIn Link:** [My LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7199125001491361792/)  
-
 **Automating Data Transformation for BigQuery Analytics**: 
 In this project, I explored dbt and BigQuery to construct a data transformation pipeline. dbt's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. This ensured efficient storage and retrieval of large datasets. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization through drag-and-drop actions to explore the transformed data.
 
