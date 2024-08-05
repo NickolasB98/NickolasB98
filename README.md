@@ -7,7 +7,7 @@ And now a glimpse of what I've accomplished:
 **AWS Serverless Real-Time Weather Data Pipeline**:
 In this project, I built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for orchestrating the data pipeline by connecting the Glue Crawler, ETL jobs alongside with triggers, Athena for querying transformed data, and Grafana Cloud for interactive data visualization.
 
-**GitHub Repository:** [aws-severless-project](https://github.com/NickolasB98/aws-severless-project)  
+**GitHub Repository:** [aws-serverless-project](https://github.com/NickolasB98/aws-serverless-project)  
 
 **Automating Data Transformation for BigQuery Analytics**: 
 In this project, I explored dbt and BigQuery to construct a data transformation pipeline. dbt's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. This ensured efficient storage and retrieval of large datasets. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization through drag-and-drop actions to explore the transformed data.
