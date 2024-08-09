@@ -17,7 +17,7 @@ This project leverages Azure Databricks to analyze Formula 1 race results from t
 **GitHub Repository:** [databricks-formula1-pipeline-project](https://github.com/NickolasB98/databricks-formula1-pipeline-project)
 
 **Azure Data Factory Fully Automated CI/CD Covid Reporting Pipeline:**
-Built a cloud-based ETL pipeline using ADF to ingest, transform, and load COVID-19 data from ECDC and Azure Blob Storage into Azure Data Lake and SQL Database. Leveraged ADF Data Flows, Databricks, and Power BI for data processing, warehousing, and visualization. Implemented a fully automated CI/CD pipeline using Azure DevOps and Git for continuous delivery and improved efficiency.
+This project utilizes Azure Data Factory to construct a cloud-based ETL pipeline for ingesting, transforming, and loading COVID-19 data from ECDC and Azure Blob Storage into Azure Data Lake and SQL Database. The pipeline leverages ADF Data Flows for efficient data processing, Databricks for advanced transformations, and Power BI for data visualization. To ensure continuous delivery and improved efficiency, a fully automated CI/CD pipeline is implemented using Azure DevOps and Git.
 
 **GitHub Repository:** [azure-data-factory-cicd-covid-project](https://github.com/NickolasB98/azure-data-factory-cicd-covid-project)
 
@@ -27,12 +27,12 @@ This project explores the Tokyo Olympics data using a complete Azure data pipeli
 **GitHub Repository:** [tokyo-olympics-azure-project](https://github.com/NickolasB98/tokyo-olympics-azure-project)
 
 **Airflow Retail Data Pipeline for Streamlined Analytics and Visualization**: 
-This project implemented an Airflow-powered data pipeline for retail data. The pipeline incorporated data quality checks using Soda and streamlined data transformation with dbt. Leveraging the Cosmos/Astro extension, dbt models were seamlessly integrated into Airflow workflows. The transformed data was loaded into BigQuery for analysis. Python virtual environments and the Astro SDK enhanced pipeline flexibility and data management. This robust architecture ensured data accuracy, efficiency, and actionable insights.
+This project implements an Airflow-powered data pipeline for retail data. The pipeline incorporated data quality checks using Soda and streamlined data transformation with dbt. Leveraging the Cosmos/Astro extension, dbt models were seamlessly integrated into Airflow workflows. The transformed data was loaded into BigQuery for analysis. Python virtual environments and the Astro SDK enhanced pipeline flexibility and data management. This robust architecture ensured data accuracy, efficiency, and actionable insights.
 
 **GitHub Repository:** [airflow-bigquery-dbt-retail-project](https://github.com/NickolasB98/airflow-bigquery-dbt-retail-project) 
 
 **Automating Data Transformation for BigQuery Analytics**: 
-In this project, I utilised dbt and BigQuery to construct a data transformation pipeline. dbt's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization through drag-and-drop actions to explore the transformed data.
+I used DBT and BigQuery to construct a data transformation pipeline. DBT's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models are executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization to explore the transformed data through drag-and-drop actions.
 
 **GitHub Repository:** [dbt-bigquery-de-project](https://github.com/NickolasB98/dbt-bigquery-de-project) 
 
