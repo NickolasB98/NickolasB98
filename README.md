@@ -9,11 +9,6 @@ In this project, I built a serverless data pipeline using AWS services to ingest
 
 **GitHub Repository:** [aws-serverless-project](https://github.com/NickolasB98/aws-serverless-project)  
 
-**Automating Data Transformation for BigQuery Analytics**: 
-In this project, I explored dbt and BigQuery to construct a data transformation pipeline. dbt's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. This ensured efficient storage and retrieval of large datasets. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization through drag-and-drop actions to explore the transformed data.
-
-**GitHub Repository:** [dbt-bigquery-de-project](https://github.com/NickolasB98/dbt-bigquery-de-project) 
-
 **Azure Databricks Automated Racing Data Pipeline:**
 This project leverages Azure Databricks to analyze Formula 1 race results from the Ergast Developer API (1950-2022). Raw data lands in Azure Data Lake Storage, then undergoes Spark-powered transformations (cleaning, schema application) in Azure Databricks notebooks. Further transformations using Databricks SQL in the Silver Zone prepare the data for analysis. Finally, the processed data resides in the Gold Zone for exploration and reporting. A dynamic trigger based on upcoming race dates ensures the pipeline only runs on race weeks, while Azure Data Factory orchestrates and monitors the entire process.
 
@@ -24,10 +19,20 @@ Built a cloud-based ETL pipeline using ADF to ingest, transform, and load COVID-
 
 **GitHub Repository:** [azure-data-factory-cicd-covid-project](https://github.com/NickolasB98/azure-data-factory-cicd-covid-project)
 
+**Azure Tokyo Olympics Data Engineering Pipeline**
+This project explores the Tokyo Olympics data using a complete Azure data pipeline. It ingests data from GitHub using Azure Data Factory and stores it in Azure Data Lake Gen2. The data is then transformed in Azure Databricks and analyzed using SQL scripts in Azure Synapse Analytics. The analysis focuses on athletes, coaches, teams, and competition entries, generating insights like top medalist countries and average athletes per discipline.
+
+**GitHub Repository:** [tokyo-olympics-azure-project](https://github.com/NickolasB98/tokyo-olympics-azure-project)
+
 **Airflow Retail Data Pipeline for Streamlined Analytics and Visualization**: 
 This project automates report quality checks and data visualizations using a powerful tech stack. Airflow orchestrated the execution of data quality checks written in YAML files. These checks were powered by Soda, a framework specifically designed for data validation. dbt seamlessly integrated with Airflow using Cosmos/Astro, an extension that allowed automatic execution of dbt models within Airflow workflows. This streamlined data transformation for analysis in BigQuery, the project's data warehouse. For data management, the pipeline leveraged the Astro SDK and its Load File Operator. This operator simplified loading data into BigQuery, ensuring efficient data storage. Python virtual environments and the Python Operator within Airflow provided flexibility for running custom Python code within the pipeline. This allowed for handling unique situations and adding custom logic. This approach streamlined the process, ensured data accuracy through Soda checks, and empowered clear data insights with dbt and Metabase visualizations. 
 
 **GitHub Repository:** [airflow-bigquery-dbt-retail-project](https://github.com/NickolasB98/airflow-bigquery-dbt-retail-project) 
+
+**Automating Data Transformation for BigQuery Analytics**: 
+In this project, I utilised dbt and BigQuery to construct a data transformation pipeline. dbt's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization through drag-and-drop actions to explore the transformed data.
+
+**GitHub Repository:** [dbt-bigquery-de-project](https://github.com/NickolasB98/dbt-bigquery-de-project) 
 
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions. The focus of this project is on utilizing xAI techniques and Fair AI Libraries for Machine Learning Bias Management across its life cycle.
 
