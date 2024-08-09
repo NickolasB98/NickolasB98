@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Nickolas!
-#### As a Junior Data Engineer, I'm skilled in building data pipelines across different clouds that ensure data quality and empower data exploration in tools like Metabase, Looker, or Grafana.
+
+#### As a Junior Data Engineer, I specialize in designing and implementing robust data pipelines to extract, transform, and load data efficiently across various cloud platforms. With a focus on data quality and accessibility, I build solutions that empower data-driven decision-making. My expertise is transforming raw data into actionable insights through data modeling, visualization, and exploration.
+
 #### History of effective cloud engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
 
 And now a glimpse of what I've accomplished:
@@ -25,7 +27,7 @@ This project explores the Tokyo Olympics data using a complete Azure data pipeli
 **GitHub Repository:** [tokyo-olympics-azure-project](https://github.com/NickolasB98/tokyo-olympics-azure-project)
 
 **Airflow Retail Data Pipeline for Streamlined Analytics and Visualization**: 
-This project automates report quality checks and data visualizations using a powerful tech stack. Airflow orchestrated the execution of data quality checks written in YAML files. These checks were powered by Soda, a framework specifically designed for data validation. dbt seamlessly integrated with Airflow using Cosmos/Astro, an extension that allowed automatic execution of dbt models within Airflow workflows. This streamlined data transformation for analysis in BigQuery, the project's data warehouse. For data management, the pipeline leveraged the Astro SDK and its Load File Operator. This operator simplified loading data into BigQuery, ensuring efficient data storage. Python virtual environments and the Python Operator within Airflow provided flexibility for running custom Python code within the pipeline. This allowed for handling unique situations and adding custom logic. This approach streamlined the process, ensured data accuracy through Soda checks, and empowered clear data insights with dbt and Metabase visualizations. 
+This project implemented an Airflow-powered data pipeline for retail data. The pipeline incorporated data quality checks using Soda and streamlined data transformation with dbt. Leveraging the Cosmos/Astro extension, dbt models were seamlessly integrated into Airflow workflows. The transformed data was loaded into BigQuery for analysis. Python virtual environments and the Astro SDK enhanced pipeline flexibility and data management. This robust architecture ensured data accuracy, efficiency, and actionable insights.
 
 **GitHub Repository:** [airflow-bigquery-dbt-retail-project](https://github.com/NickolasB98/airflow-bigquery-dbt-retail-project) 
 
