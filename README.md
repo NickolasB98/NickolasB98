@@ -31,8 +31,8 @@ This project implements an Airflow-powered data pipeline for retail data. The pi
 
 **GitHub Repository:** [airflow-bigquery-dbt-retail-project](https://github.com/NickolasB98/airflow-bigquery-dbt-retail-project) 
 
-**Automating Data Transformation for BigQuery Analytics**: 
-I used DBT and BigQuery to construct a data transformation pipeline. DBT's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models are executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization to explore the transformed data through drag-and-drop actions.
+**End-to-End Analytics: DBT, BigQuery, Looker Studio**: 
+I used DBT and BigQuery to construct a customers & orders data transformation pipeline. DBT's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models are executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization to explore the transformed data through drag-and-drop actions.
 
 **GitHub Repository:** [dbt-bigquery-de-project](https://github.com/NickolasB98/dbt-bigquery-de-project) 
 
