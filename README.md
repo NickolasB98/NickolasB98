@@ -34,7 +34,7 @@ This project implements an Airflow-powered data pipeline for retail data. The pi
 **End-to-End Analytics: DBT, BigQuery, Looker Studio**: 
 I used DBT and BigQuery to construct a customers & orders data transformation pipeline. DBT's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models are executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization to explore the transformed data through drag-and-drop actions.
 
-**GitHub Repository:** [dbt-bigquery-de-project](https://github.com/NickolasB98/dbt-bigquery-de-project) 
+**GitHub Repository:** [customers-pipeline-dbt-bigquery-project](https://github.com/NickolasB98/customers-pipeline-dbt-bigquery-project)
 
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions. The focus of this project is on utilizing xAI techniques and Fair AI Libraries for Machine Learning Bias Management across its life cycle.
 
