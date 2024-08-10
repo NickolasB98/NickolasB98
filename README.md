@@ -27,7 +27,7 @@ This project explores the Tokyo Olympics data using a complete Azure data pipeli
 **GitHub Repository:** [tokyo-olympics-azure-project](https://github.com/NickolasB98/tokyo-olympics-azure-project)
 
 **Airflow Retail Data Pipeline for Streamlined Analytics and Visualization**: 
-This project implements an Airflow-powered data pipeline for retail data. The pipeline incorporated data quality checks using Soda and streamlined data transformation with dbt. Leveraging the Cosmos/Astro extension, dbt models were seamlessly integrated into Airflow workflows. The transformed data was loaded into BigQuery for analysis. Python virtual environments and the Astro SDK enhanced pipeline flexibility and data management. This robust architecture ensured data accuracy, efficiency, and actionable insights.
+This project implements an Airflow-powered data pipeline for retail data. The pipeline incorporated data quality checks using Soda and streamlined data transformation with dbt. Leveraging the Cosmos/Astro extension, dbt models were seamlessly integrated into Airflow workflows. The transformed data was loaded into BigQuery for analysis. Python virtual environments and the Astro SDK enhanced pipeline flexibility and data management. This efficient architecture ensured data accuracy, efficiency, and actionable insights.
 
 **GitHub Repository:** [airflow-bigquery-dbt-retail-project](https://github.com/NickolasB98/airflow-bigquery-dbt-retail-project) 
 
