@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nickolas!
 
-#### As a Junior Data Engineer, I specialize in designing and implementing robust data pipelines to extract, transform, and load data efficiently across various cloud platforms. With a focus on data quality and accessibility, I build solutions that empower data-driven decision-making. My expertise is transforming raw data into actionable insights through data modeling, visualization, and exploration.
+#### As a Junior Data Engineer, I specialize in designing and implementing scalable data pipelines to extract, transform, and load data efficiently across various cloud platforms. With a focus on data quality and accessibility, I build solutions that empower data-driven decision-making. My expertise is transforming raw data into actionable insights through data modeling, ETL, visualization, and exploration.
 
 #### History of effective cloud engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
 
