@@ -26,6 +26,11 @@ This project explores the Tokyo Olympics data using a complete Azure data pipeli
 
 **GitHub Repository:** [tokyo-olympics-azure-project](https://github.com/NickolasB98/tokyo-olympics-azure-project)
 
+**Azure Sybnapse NYC Taxi Data Engineering Pipeline**
+This project develops a data engineering pipeline on Azure Synapse Analytics to analyze NYC Green taxi trip data (2020-2021). It utilizes various Azure services, including Synapse Data Factory, a Serverless SQL Pool for data ingestion and exploration, Apache Spark Pool for complex data transformations, and AWS QuickSight for data visualization. The project demonstrates the seamless integration of various Azure Synapse services, and the strategic use of different cloud environments to address specific needs.
+
+**GitHub Repository:** [azure-synapse-nyc-taxi-de-project](https://github.com/NickolasB98/azure-synapse-nyc-taxi-de-project)
+
 **Airflow Retail Data Pipeline for Streamlined Analytics and Visualization**: 
 This project implements an Airflow-powered data pipeline for retail data. The pipeline incorporated data quality checks using Soda and streamlined data transformation with dbt. Leveraging the Cosmos/Astro extension, dbt models were seamlessly integrated into Airflow workflows. The transformed data was loaded into BigQuery for analysis. Python virtual environments and the Astro SDK enhanced pipeline flexibility and data management. This efficient architecture ensured data accuracy, efficiency, and actionable insights.
 
