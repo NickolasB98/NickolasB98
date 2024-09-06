@@ -4,7 +4,7 @@
 
 #### History of effective cloud engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
 
-And now a glimpse of what I've accomplished:
+And now a glimpse of my end-to-end data engineering projects:
 
 **AWS Serverless Real-Time Weather Data Pipeline**:
 In this project, I built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for orchestrating the data pipeline by connecting the Glue Crawler, ETL jobs alongside with triggers, Athena for querying transformed data, and Grafana Cloud for interactive data visualization.
@@ -35,6 +35,11 @@ This project develops a data engineering pipeline on Azure Synapse Analytics to 
 This project implements an Airflow-powered data pipeline for retail data. The pipeline incorporated data quality checks using Soda and streamlined data transformation with dbt. Leveraging the Cosmos/Astro extension, dbt models were seamlessly integrated into Airflow workflows. The transformed data was loaded into BigQuery for analysis. Python virtual environments and the Astro SDK enhanced pipeline flexibility and data management. This efficient architecture ensured data accuracy, efficiency, and actionable insights.
 
 **GitHub Repository:** [airflow-bigquery-dbt-retail-project](https://github.com/NickolasB98/airflow-bigquery-dbt-retail-project) 
+
+**Airflow Apple Stocks Data Pipeline Project**:
+The Airflow Apple Stocks Data Pipeline project automates the process of fetching, processing, and storing stock market data, specifically for Apple Inc. (AAPL), using Apache Airflow. The pipeline orchestrates various tasks through a Directed Acyclic Graph (DAG) ensuring data integrity and availability. It retrieves stock prices from an API, processes the data using a Docker container with Spark, and stores the results in a PostgreSQL database, with notifications sent via Slack upon completion. This project also includes a Metabase dashboard for visualizing insights derived from the stored data.
+
+**GitHub Repository:** [airflow-apple-stocks-de-project](https://github.com/NickolasB98/airflow-apple-stocks-de-project) 
 
 **End-to-End Analytics: DBT, BigQuery, Looker Studio**: 
 I used DBT and BigQuery to construct a customers & orders data transformation pipeline. DBT's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models are executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization to explore the transformed data through drag-and-drop actions.
