@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nickolas!
 
-#### As a Junior Data Engineer, I specialize in designing and implementing scalable data pipelines to extract, transform, and load data efficiently across various cloud platforms. With a focus on data quality and accessibility, I build solutions that empower data-driven decision-making. My expertise is transforming raw data into actionable insights through data modeling, ETL, visualization, and exploration.
+#### As a Junior Data Engineer, I specialize in designing and implementing scalable data pipelines to extract, transform, and load data efficiently across various cloud platforms. With a focus on data quality and governance, I build solutions that empower data-driven decision-making. My expertise is transforming raw data into actionable insights through data modeling, ETL, visualization, and exploration.
 
 #### History of effective cloud engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
 
@@ -41,6 +41,11 @@ The Airflow Apple Stocks Data Pipeline project automates the process of fetching
 
 **GitHub Repository:** [airflow-apple-stocks-de-project](https://github.com/NickolasB98/airflow-apple-stocks-de-project) 
 
+**AWS and Kafka Real-Time Stock Market Data Pipeline**
+The project showcases the integration of Apache Kafka and AWS services to create a robust, real-time data pipeline. This project demonstrates how Kafka ran on an AWS EC2 instance, combined with AWS Glue, Amazon S3, and Athena, can handle large-scale, simulated stock market data with high efficiency in real-time.
+
+**GitHub Repository:** [kafka-aws-stock-market-project](https://github.com/NickolasB98/kafka-aws-stock-market-project)
+
 **End-to-End Analytics: DBT, BigQuery, Looker Studio**: 
 I used DBT and BigQuery to construct a customers & orders data transformation pipeline. DBT's SQL-based approach offered a familiar language for data manipulation, streamlining the process. I wrote and tested SQL-based transformations (models) within dbt. These models are executed directly in BigQuery, transforming raw data into a usable format. The transformed data resided in BigQuery. Finally, I connected Looker Studio to the BigQuery instance, enabling interactive data visualization to explore the transformed data through drag-and-drop actions.
 
@@ -51,7 +56,7 @@ I used DBT and BigQuery to construct a customers & orders data transformation pi
 **GitHub Repository:** [MSc-TOM-Thesis](https://github.com/NickolasB98/MSc-TOM-Thesis) 
 
 **Skills:** 
-Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, Athena, Glue ETL Workflow, Glue Crawler, QuickSight) | GCP (BigQuery, Looker) | Azure (Databricks, ADF)| dbt | Airflow | Git | Machine Learning | Linux CMD
+Python | ETL | SQL | AWS (Kinesis Firehose, Lambda, Athena, Glue ETL Workflow, Glue Crawler, QuickSight) | GCP (BigQuery, Looker) | Azure (Databricks, ADF, Synapse)| Airflow | Git | Machine Learning | Linux CMD
 
 - 🔭 I’m currently working on hands-on Cloud projects to gain experience in cloud engineering. 
 - 🌱 I’m currently learning PySpark and SparkSQL on real-life practice examples. In the meantime, I am getting more experience in Docker, considering it vital to master for my career path. 
