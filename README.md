@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Nickolas!
 
-#### As a Junior Data Engineer, I specialize in designing and implementing scalable data pipelines to extract, transform, and load data efficiently across various cloud platforms. With a focus on data quality and governance, I build solutions that empower data-driven decision-making. My expertise is transforming raw data into actionable insights through data modeling, ETL, visualization, and exploration.
+#### As a Data Engineer, I specialize in designing and implementing scalable data pipelines to extract, transform, and load data efficiently across various cloud platforms. With a focus on data quality and governance, I build solutions that empower data-driven decision-making. My expertise is transforming raw data into actionable insights through data modeling, ETL, visualization, and exploration.
 
-#### History of effective cloud engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
+#### History of effective cloud-native engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
 
-And now a glimpse of my end-to-end data engineering projects:
+Have a look at my end-to-end data engineering projects:
 
 **AWS Serverless Real-Time Weather Data Pipeline**:
-In this project, I built a serverless data pipeline using AWS services to ingest, transform, and visualize real-time weather data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for orchestrating the data pipeline by connecting the Glue Crawler, ETL jobs alongside with triggers, Athena for querying transformed data, and Grafana Cloud for interactive data visualization.
+In this project, I built two serverless data pipelines using AWS cloud. One to ingest, transform, and visualize real-time Forecast Weather data every week, and another one for Historical Batch data. This project involved leveraging Lambda functions, Kinesis Firehose for streaming data, Glue ETL Workflows for orchestrating the data pipeline by connecting the Glue Crawler, ETL jobs alongside with triggers, Athena for querying transformed data, and Grafana Cloud for interactive data visualization.
 
 **GitHub Repository:** [aws-serverless-project](https://github.com/NickolasB98/aws-serverless-project)  
 
