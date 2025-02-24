@@ -9,7 +9,7 @@ I am an Operations and Data Analyst specialising in the supply chain and operati
 From designing interactive dashboards with KPIs to performing advanced analytics projects in cloud platforms, I focus on crafting data-driven strategies that empower organizations to make informed decisions, ensuring scalable and impactful solutions for operational and supply chain challenges. My expertise spans the entire data lifecycle, from data collection and cleaning, ETL practices, to predictive modeling.
 I am currently seeking opportunities to apply my analytical skills and technical expertise in roles that bridge operations, supply chain, and data analytics. My goal is to contribute to organizations that value innovation, efficiency, and data-driven transformation, helping them achieve operational excellence and sustainable growth.
 
-#### Have a look at my end-to-end data analytics - engineering projects:
+#### Have a look at my end-to-end data analytics - engineering projects in Github:
 
 https://github.com/stars/NickolasB98/lists/data-analytics-projects
 
