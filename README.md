@@ -6,20 +6,22 @@ From designing interactive dashboards with KPIs to performing advanced analytics
 I am currently seeking opportunities to apply my analytical skills and technical expertise in roles that bridge operations, supply chain, and data analytics. My goal is to contribute to organizations that value innovation, efficiency, and data-driven transformation, helping them achieve operational excellence and sustainable growth.
 #### History of effective cloud-native engineering projects, utilization of DevOps tools for version control and dockerization, practice in ETL & data manipulation tools. Recent MSc graduate focusing on big data and ML operations.
 
-Have a look at my end-to-end data analytics - engineering projects:
+#### Have a look at my end-to-end data analytics - engineering projects:
 
+https://github.com/stars/NickolasB98/lists/data-analytics-projects
 
+#### Below I present you with my MSc Thesis on Fair AI in Healthcare:
 
 **MSc Thesis on Predictive Fairness in Healthcare:** My Master's thesis explored the potential for bias in machine learning models used for patient readmission prediction in healthcare. Through this research, I developed a framework for identifying and mitigating bias in these models, emphasizing the importance of data engineering techniques and explainable AI tools in achieving fair and accurate predictions. The focus of this project is on utilizing xAI techniques and Fair AI Libraries for Machine Learning Bias Management across its life cycle.
 
 **GitHub Repository:** [MSc-TOM-Thesis](https://github.com/NickolasB98/MSc-TOM-Thesis) 
 
 **Skills:** 
-Python | ETL | SQL | AWS | Tableau | Excel | Azure (Databricks, ADF, Synapse) | Git |
+Python | ETL | SQL | AWS | Tableau | Excel | Azure (Databricks, ADF, Synapse) | Git 
 
-- 🔭 I’m currently working on hands-on Cloud projects to gain experience in cloud engineering. 
-- 🌱 I’m currently learning PySpark and SparkSQL on real-life practice examples. In the meantime, I am getting more experience in Docker, considering it vital to master for my career path. 
-- 💬 Open to working on projects that involve building and deploying machine learning pipelines on the cloud. My skills in both cloud and ML can be a valuable asset. 
+- 🔭 I’m currently working on building my Data Portfolio. 
+- 🌱 I’m currently seeking to grow my career in Data as an Analyst, with a focus on Operations and Supply Chain.
+- 💬 Open to work in Stockholm, Sweden. 
 - 📫 How to reach me: nikolaosdb98@gmail.com
 
 
