@@ -1,5 +1,9 @@
 ### Hi there 👋, my name is Nickolas!
 
+**My Data Portfolio in Notion:**
+
+https://beneficial-canoe-4ad.notion.site/Nickolas-Biniaris-Data-Portfolio-174b1a7e4bd8808aa317d16df6f0be1d
+
 #### Operations | Data Analyst
 I am an Operations and Data Analyst specialising in the supply chain and operations sectors, with a background in Shipping Logistics Analytics and a recent MSc in Technology and Operations Management (Specialised on Data-Driven Solutions and Machine Learning). I bring a strong foundation in supply chain, operations management, and a passion in Data.
 From designing interactive dashboards with KPIs to performing advanced analytics projects in cloud platforms, I focus on crafting data-driven strategies that empower organizations to make informed decisions, ensuring scalable and impactful solutions for operational and supply chain challenges. My expertise spans the entire data lifecycle, from data collection and cleaning, ETL practices, to predictive modeling.
